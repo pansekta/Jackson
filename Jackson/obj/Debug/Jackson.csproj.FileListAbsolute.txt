@@ -1,0 +1,13 @@
+c:\users\sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\Jackson.dll.config
+c:\users\sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\Jackson.dll
+c:\users\sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\Jackson.pdb
+c:\users\sekta\documents\visual studio 2013\Projects\Jackson\Jackson\obj\Debug\Jackson.csprojResolveAssemblyReference.cache
+c:\users\sekta\documents\visual studio 2013\Projects\Jackson\Jackson\obj\Debug\Jackson.dll
+c:\users\sekta\documents\visual studio 2013\Projects\Jackson\Jackson\obj\Debug\Jackson.pdb
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\Iesi.Collections.dll
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\NHibernate.dll
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\Iesi.Collections.xml
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\NHibernate.xml
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\FluentNHibernate.dll
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\FluentNHibernate.pdb
+C:\Users\Sekta\documents\visual studio 2013\Projects\Jackson\Jackson\bin\FluentNHibernate.xml
